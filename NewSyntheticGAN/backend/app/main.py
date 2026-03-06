@@ -18,7 +18,7 @@ from fastapi.middleware.cors import CORSMiddleware
 
 from app.config import settings
 from app.database import Base, engine
-from app.routers import dataset_router, model_router, synthetic_router
+from app.routers import dataset_router, model_router, synthetic_router, synthesizer_router
 
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -88,6 +88,7 @@ app.add_middleware(
 app.include_router(dataset_router.router)
 app.include_router(synthetic_router.router)
 app.include_router(model_router.router)
+app.include_router(synthesizer_router.router)
 
 
 # ── Health Check ────────────────────────────────────────────────────────
