@@ -1,0 +1,96 @@
+customer_id,name,age,income,location,credit_score,account_type
+CUST-16D87CF64F75,Karen Tanaka,49,70830.72,Sydney,663,business
+CUST-537454FEBA08,Emma Tanaka,45,61632.24,Mumbai,660,savings
+CUST-96CEB3F035B9,Karen Hernandez,48,69501.34,New York,654,savings
+CUST-6B40EE1F7165,Jennifer Tanaka,49,70947.15,Dubai,674,checking
+CUST-C83352E71EFD,Olga Moore,52,64570.09,Chicago,670,checking
+CUST-FF0AA7E67978,Emma Sharma,50,63162.43,Mumbai,656,business
+CUST-B4EFC40F6002,Noah Nguyen,40,61174.79,Mumbai,698,business
+CUST-851869A0065A,Carlos Jones,50,60265.06,Singapore,678,savings
+CUST-9AD1284138E1,Aarav Jackson,51,65551.13,San Francisco,650,credit
+CUST-2E6EE296D4EF,Robert Gonzalez,48,71241.89,Hong Kong,688,credit
+CUST-AFD6EEDEDED3,Yuki Johnson,50,58584.71,Hong Kong,660,savings
+CUST-FA00B97ACA54,Fatima Jackson,43,54680.49,New York,679,credit
+CUST-03E4CA41B2B9,Hiroshi Johnson,52,58599.82,Singapore,649,checking
+CUST-0AAC8F0A1691,Priya Miller,49,61806.02,Dubai,656,checking
+CUST-F9D0DB661D37,Jennifer Nguyen,51,64711.33,Dubai,685,business
+CUST-586953D17F21,John Müller,47,66071.4,Seoul,673,savings
+CUST-4DBC464FB1C7,Barbara Nguyen,50,70754.38,Sydney,665,business
+CUST-B00718712730,Karen Brown,46,75471.89,New York,649,business
+CUST-E8666452937A,Jessica Moore,48,61416.81,Mumbai,652,business
+CUST-FB5E75C8A0FC,Mary Williams,52,68341.12,Hong Kong,670,checking
+CUST-E0FF6B5A10DC,Jennifer Wilson,45,57550.78,Singapore,676,business
+CUST-A7683272C828,James Garcia,47,64557.95,San Francisco,661,savings
+CUST-C1D21C1DC1E5,Aleksandr Anderson,49,65796.39,Chicago,667,business
+CUST-2DFE41ADD184,Emma Jackson,48,66471.32,Singapore,664,checking
+CUST-32B1E78B5598,Mary Taylor,47,71360.07,San Francisco,671,credit
+CUST-14D55B5A8147,Robert Müller,48,67898.09,Singapore,660,credit
+CUST-0415902BC75A,Olga Tanaka,50,58914.29,Chicago,653,checking
+CUST-CA10A9E01DBC,Emma Nguyen,49,62123.43,Tokyo,676,savings
+CUST-8472CD5B3390,Priya Taylor,45,62853.41,San Francisco,677,business
+CUST-F9469564013A,Michael Tanaka,50,67262.33,São Paulo,693,checking
+CUST-D8A5B52AE20D,Emma Thomas,50,66396.43,Paris,665,checking
+CUST-FCE56FB5E56C,Ahmed Gonzalez,48,60546.81,Singapore,669,business
+CUST-ACD3DDA6C93D,Christopher Wilson,49,72144.58,New York,678,credit
+CUST-EB18AE73F1B5,Patricia Taylor,45,73832.11,Hong Kong,671,credit
+CUST-E6684AADD9C8,William Kim,51,76597.38,Toronto,678,checking
+CUST-0B962CB2BB1C,Maria Davis,51,63830.68,San Francisco,655,savings
+CUST-71CDDF0B17F7,Aarav Tanaka,47,62487.58,Sydney,666,credit
+CUST-63529595E5B1,Hiroshi Kim,49,68292.11,São Paulo,667,savings
+CUST-6C2ED3F455E6,Patricia Lopez,52,68756.43,Toronto,664,credit
+CUST-B8425278E387,Jessica Martinez,48,68545.6,São Paulo,676,business
+CUST-5D5415B59172,David Wilson,43,58571.55,Berlin,673,credit
+CUST-EABC6ADA1C63,Patricia Wang,49,66516.96,Mumbai,671,business
+CUST-FA3EB5547AF3,Olivia Martinez,45,50686.28,Berlin,673,checking
+CUST-8F587E3ACF0F,Hiroshi Williams,52,58868.3,Toronto,666,savings
+CUST-1AAFA4DB2321,Jennifer Thomas,50,67648.14,Seoul,675,checking
+CUST-1748591F3D54,Liam Brown,49,75306.7,Singapore,686,checking
+CUST-9776D0B058BD,Olivia Brown,43,55087.99,Seoul,680,savings
+CUST-41478A340D02,Mary Patel,49,73523.08,Seoul,668,business
+CUST-C4E47F043626,Barbara Davis,42,59063.26,Singapore,679,business
+CUST-6821C188C194,David Nguyen,49,64168.69,Hong Kong,679,savings
+CUST-863CB04F4B89,David Garcia,45,64928.62,Singapore,668,checking
+CUST-C2F03715D580,Michael Davis,48,63409.67,Seoul,656,checking
+CUST-0CF14FA8CAC2,Aleksandr Lopez,49,60461.05,Dubai,669,checking
+CUST-B18E52DE5C1E,Noah Jackson,54,57481.35,Chicago,634,checking
+CUST-1012CAC2EA51,Olga Johnson,51,56447.7,Seoul,665,business
+CUST-2B721D025570,Patricia Wang,49,68569.18,Mumbai,668,business
+CUST-B1DB6076D927,Sarah Ivanov,49,70259.86,Hong Kong,654,savings
+CUST-0CDB067A0EF5,Carlos Jones,48,59784.46,Berlin,661,checking
+CUST-C1E6886770B1,Noah Hernandez,46,62655.91,São Paulo,681,savings
+CUST-6DEBA9C58D47,Emma Wilson,43,57207.1,Chicago,701,savings
+CUST-73FBFA69273B,Christopher Rodriguez,42,66633.96,Singapore,679,business
+CUST-5AF1CC3D6B5B,Christopher Hernandez,49,72050.5,Hong Kong,684,checking
+CUST-265274AEE8AC,Mary Martin,49,61280.24,Hong Kong,683,savings
+CUST-65E3ADEB119F,Aarav Wilson,49,62009.98,Chicago,674,checking
+CUST-5CC73250F3AE,Sarah Gonzalez,46,63005.14,New York,675,credit
+CUST-87ED08AEC07C,Yuki Smith,47,62855.29,Paris,674,business
+CUST-9E93F6FCB50E,Maria Patel,46,60660.9,Tokyo,660,savings
+CUST-C5F6D1624A68,Wei Tanaka,53,70262.03,Paris,665,checking
+CUST-5C00FB15B27B,Olga Ivanov,49,61068.41,Toronto,661,business
+CUST-2D50A6C249CB,Barbara Jones,49,65809.74,Hong Kong,669,savings
+CUST-DB63F9A2F475,Karen Martin,52,59766.95,Tokyo,641,credit
+CUST-BB456C016B84,Jennifer Brown,50,69052.76,London,655,business
+CUST-8FC3BA0F4B01,John Anderson,50,67374.58,Dubai,671,savings
+CUST-FD68A1CFCE3C,Joseph Garcia,54,70364.19,Mumbai,662,savings
+CUST-201B625E9748,Priya Ivanov,45,52066.2,Mumbai,664,savings
+CUST-1D62F582452E,Hiroshi Wilson,41,62908.46,Berlin,644,business
+CUST-6C28996D1E88,Liam Martinez,50,69905.67,Singapore,676,business
+CUST-8C4FE3A0B626,Maria Davis,46,64112.08,San Francisco,669,business
+CUST-FDB8C4508280,Carlos Sharma,47,65428.43,London,661,credit
+CUST-DE1872DE3A53,Michael Sharma,45,68889.26,Tokyo,686,savings
+CUST-727740710614,Michael Brown,45,59865.44,San Francisco,661,credit
+CUST-656DE73374A8,Linda Anderson,45,72062.36,São Paulo,685,business
+CUST-B47FA9769C10,Patricia Wilson,50,68673.99,Seoul,666,credit
+CUST-ED03B2BA33A6,Mei Hernandez,47,58883.46,Mumbai,686,savings
+CUST-B2409B05014F,Richard Wilson,47,67491.45,São Paulo,681,business
+CUST-9E2B175ED4EA,Susan Wang,49,65205.87,Seoul,665,checking
+CUST-023877FB0E42,Thomas Martin,47,68853.91,Mumbai,657,checking
+CUST-5E045D5B4752,Richard Miller,48,62219.33,Mumbai,662,business
+CUST-CA7500DBF1D0,Sarah Anderson,45,63502.52,Seoul,674,checking
+CUST-894CB7573870,Maria Williams,49,80032.33,Tokyo,668,credit
+CUST-2F7FB11B2510,David Ivanov,47,61990.14,Sydney,680,checking
+CUST-481BEE730DFC,Yuki Martinez,47,71101.55,Dubai,681,business
+CUST-023CDEA87E86,Jennifer Nguyen,47,61778.94,Chicago,672,checking
+CUST-5CBB6BEEC304,John Garcia,48,66852.88,London,665,savings
+CUST-665A6D907E25,John Williams,43,55073.68,Dubai,660,credit
