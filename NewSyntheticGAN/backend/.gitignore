@@ -1,0 +1,21 @@
+# Environment
+.env
+__pycache__/
+*.pyc
+*.pyo
+
+# Database
+*.db
+
+# Uploads & generated data
+uploads/
+generated/
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
